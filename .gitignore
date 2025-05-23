@@ -1,0 +1,4 @@
+# Игнорировать .env файлы и папку vendor
+/task3/.env
+/task5/.env
+task8/src/vendor/ 

@@ -1,0 +1,14 @@
+{
+    "name": "library/mvc",
+    "description": "Personal Library MVC Project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "php": "^8.2",
+        "vlucas/phpdotenv": "^5.5"
+    }
+} 
